@@ -8,6 +8,6 @@ This project involves following features:
 * Deleting or Editing any existing task.
 * Searching for a task in the list.
 * Switch between Light/Dark themes.
-* The current day, date and time are also displayed in the application. </br>
-![To Do List Light](https://github.com/Priyanshii1511/OCTANET_AUGUST/blob/main/images/ToDoList1.png)</br>
+* The current day, date and time are also displayed in the application. </br></br>
+![To Do List Light](https://github.com/Priyanshii1511/OCTANET_AUGUST/blob/main/images/ToDoList1.png)</br></br>
 ![To Do List Dark](https://github.com/Priyanshii1511/OCTANET_AUGUST/blob/main/images/ToDoList2.png)
